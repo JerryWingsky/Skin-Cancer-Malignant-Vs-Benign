@@ -44,7 +44,7 @@ Malignant cases wrongly classified as benign.
 - While Benign cases were sometimes wrongly classified as Malignant `(False Positive 52)`.
 
 ## How to Use 🚀 
-- Open the `.ipynb` notebook file in the files or click the link here [Google Colab](https://colab.research.google.com/drive/1LNrY0mR3pStWBkjPMkwKcl5UtXQKFS8U?usp=sharing).
+- Open the `.ipynb` notebook file in the files.
 
 > 📁 **Note**: This is for **educational purposes only** — no real credentials, access, or confidential data are used.
 
