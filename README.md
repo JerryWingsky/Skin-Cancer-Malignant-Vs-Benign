@@ -47,7 +47,7 @@ Benign cases wrongly classified as malignant.
 4. False Negatives (17):
 Malignant cases wrongly classified as benign.
 
-- So, based from this analysis, the model shows strong performance in detecting Malignant Skin Cancers, with `True Positive 136 Correct Malignant Predictions` & only `False Positive 17 Incorrect Predictions`.
+- So, based from this analysis, the model shows strong performance in detecting Malignant Skin Cancers, with `True Positive 136 Correct Malignant Predictions` & only `False Positive 17 Incorrect Malignant Predictions`.
 
 - While Benign cases were sometimes wrongly classified as Malignant `(False Positive 52)`.
 
