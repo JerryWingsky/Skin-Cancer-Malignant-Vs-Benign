@@ -54,9 +54,16 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 🔗 [View Full License Terms](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Coding Information 🛠
-- Python
+Frontend:
+- Jupyter Notebook.
+- Matplotlib & Seaborn Visualizations.
+- Image Display.
 
-- TensorFlow/Keras:
+Backend:
+- Python (if-else, functions, loops, etc).
+- Data Handling & Preprocessing (ImageDataGenerator).
+
+- TensorFlow/Keras (Classifying images as "Malignant" or "Benign"):
   - TensorFlow: Open source library developed by Google. Used for build, train, and deploy Neural Network (CNNs).
   - Keras: Open-source library that provides Python interface for Neural Network.
 
