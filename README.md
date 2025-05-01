@@ -28,7 +28,6 @@ This notebook explores:
 <strong><em>Figure 1: Accuracy, Precision, Recall, and F1-Score Results</em></strong>
 </p>
 
-
 - Confusion Matrix Analysis:
 
 |                      | **Predicted Benign** | **Predicted Malignant** |
