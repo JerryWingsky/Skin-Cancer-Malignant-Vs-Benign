@@ -49,7 +49,7 @@ Malignant cases wrongly classified as benign.
 > 📁 **Note**: This is for **educational purposes only** — no real credentials, access, or confidential data are used.
 
 ## License 🔒 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
 
 🔗 [View Full License Terms](https://creativecommons.org/licenses/by-nc/4.0/)
 
