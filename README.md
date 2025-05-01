@@ -14,7 +14,7 @@ A group project for **Computer Vision** combined with **Natural Language Process
 This notebook explores:
 - Image Data Preprocessing & Augmentation.
 - CNN Model Architecture & Training.
-- Model Evaluation Metrics (Accuracy, Precision, Recall, F1-Score, Confusion Matrix, and ROC Curve).
+- Model Evaluation Metrics (`Accuracy`, `Precision`, `Recall`, `F1-Score`, `Confusion Matrix`, and `ROC Curve`).
 - Practical considerations for applying AI in Medical Diagnosis.
 
 ## Results 📈
@@ -68,12 +68,12 @@ Frontend:
 - Image Display.
 
 Backend:
-- Python (if-else, functions, loops, etc).
+- Python (`if-else`, `functions`, `loops`, etc).
 - Data Handling & Preprocessing (ImageDataGenerator).
 
-- TensorFlow/Keras (Classifying images as "Malignant" or "Benign"):
-  - TensorFlow: Open source library developed by Google. Used for build, train, and deploy Neural Network (CNNs).
-  - Keras: Open-source library that provides Python interface for Neural Network.
+- `TensorFlow`/`Keras` (Classifying images as "Malignant" or "Benign"):
+  - `TensorFlow`: Open source library developed by Google. Used for build, train, and deploy Neural Network (CNNs).
+  - `Keras`: Open-source library that provides Python interface for Neural Network.
 
 - Google Colab: Free online platform to write & run a code.
 
