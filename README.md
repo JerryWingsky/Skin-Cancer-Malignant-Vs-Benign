@@ -14,12 +14,21 @@ A group project for **Computer Vision** combined with **Natural Language Process
 This notebook explores:
 - Image Data Preprocessing & Augmentation.
 - CNN Model Architecture & Training.
-- Model Evaluation Metrics (Accuracy, Confusion Matrix, and ROC Curve).
+- Model Evaluation Metrics (Accuracy, Precision, Recall, F1-Score, Confusion Matrix, and ROC Curve).
 - Practical considerations for applying AI in Medical Diagnosis.
 
 ## Results 📈
 - Best Model Accuracy: 79.59% (Good).
 - Test Loss: 0.4041
+- Accuracy, Precision, Recall, and F1-Score:
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/2755f03c-7991-4a22-bcd0-1b4b2c812134" alt="Image" width="500"/>
+<br/>
+<strong><em>Figure 1: Accuracy, Precision, Recall, and F1-Score Results</em></strong>
+</p>
+
+
 - Confusion Matrix Analysis:
 
 |                      | **Predicted Benign** | **Predicted Malignant** |
