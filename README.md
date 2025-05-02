@@ -49,7 +49,7 @@ Malignant cases wrongly classified as benign.
 
 - So, based from this analysis, the model shows strong performance in detecting Malignant Skin Cancers, with `True Positive 136 Correct Malignant Predictions` & only `False Positive 17 Incorrect Malignant Predictions`.
 
-- While Benign cases were sometimes wrongly classified as Malignant `(False Positive 52)`.
+- While Benign cases were sometimes wrongly classified as Malignant with `False Positive 52`.
 
 ## How to Use 🚀 
 - Open the `.ipynb` notebook file in the files.
