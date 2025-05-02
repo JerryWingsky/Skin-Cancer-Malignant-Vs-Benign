@@ -36,16 +36,16 @@ This notebook explores:
 | **Actual Malignant** | 17 (False Negative)  | 136 (True Positive) |
 
 1. True Positives (136):
-Correctly predicted malignant cases.
+Correctly predicted **Malignant** Cases.
 
 2. True Negatives (133):
-Correctly predicted benign cases.
+Correctly predicted **Benign** cases.
 
 3. False Positives (52):
-Benign cases wrongly classified as malignant.
+**Benign** cases wrongly classified as **Malignant**.
 
 4. False Negatives (17):
-Malignant cases wrongly classified as benign.
+**Malignant** cases wrongly classified as **Benign**.
 
 - So, based from this analysis, the model shows strong performance in detecting Malignant Skin Cancers, with `True Positive 136 Correct Malignant Predictions` & only `False Positive 17 Incorrect Malignant Predictions`.
 
