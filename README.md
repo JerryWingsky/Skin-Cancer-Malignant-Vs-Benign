@@ -39,17 +39,17 @@ This notebook explores:
 Correctly predicted **Malignant** Cases.
 
 2. True Negatives (133):
-Correctly predicted **Benign** cases.
+Correctly predicted **Benign** Cases.
 
 3. False Positives (52):
-**Benign** cases wrongly classified as **Malignant**.
+**Benign** Cases wrongly classified as **Malignant**.
 
 4. False Negatives (17):
-**Malignant** cases wrongly classified as **Benign**.
+**Malignant** Cases wrongly classified as **Benign**.
 
-- So, based from this analysis, the model shows strong performance in detecting Malignant Skin Cancers, with `True Positive 136 Correct Malignant Predictions` & only `False Positive 17 Incorrect Malignant Predictions`.
+- So, based from this analysis, the model shows strong performance in detecting **Malignant** Skin Cancers, with `True Positive 136 Correct Malignant Predictions` & only `False Positive 17 Incorrect Malignant Predictions`.
 
-- While Benign cases were sometimes wrongly classified as Malignant with `False Positive 52`.
+- While **Benign** Cases were sometimes wrongly classified as **Malignant** with `False Positive 52`.
 
 ## How to Use 🚀 
 - Open the `.ipynb` notebook file in the files.
