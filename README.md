@@ -1,21 +1,22 @@
 # Skin Cancer Malignant Vs Benign (CVNLP) 🦠
 
-📄 Licensed under CC BY-NC 4.0 — For educational & non-commercial use only.
+📄 Licensed under CC BY-NC 4.0 — For Educational & Non-Commercial Use Only.
+
+🔗 [View Full License Terms](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Overview ✨
 
-A group project for **Computer Vision** combined with **Natural Language Processing**, focusing on applying **ML** & **AI** to solve a data problem of your choice. It classifies Skin Cancer images as either **Malignant** or **Benign**. It explores practical solutions to real-world challenges in:
+A **Group Project** for **Computer Vision** combined with **Natural Language Processing**, focusing on applying **ML** & **AI** to solve a **Data Problem** of your choice. It classifies **Skin Cancer Images** as either **Malignant** or **Benign**. It explores practical solutions to **Real-World Challenges** in:
 - **Image Recognition**.
-- **Designs a CNN Architecture**.
+- **Designs CNN Architecture**.
 - **Selects Relevant Evaluation Metrics**.
 
 ## Project Overview 📌
 
-This notebook explores:
 - Image Data Preprocessing & Augmentation.
 - CNN Model Architecture & Training.
 - Model Evaluation Metrics (`Accuracy`, `Precision`, `Recall`, `F1-Score`, `Confusion Matrix`, and `ROC Curve`).
-- Practical considerations for applying AI in Medical Diagnosis.
+- Practical Considerations -> Applying AI in Medical Diagnosis.
 
 ## Results 📈
 - Best Model Accuracy: 79.59% (Good).
@@ -36,44 +37,40 @@ This notebook explores:
 | **Actual Malignant** | 17 (False Negative)  | 136 (True Positive) |
 
 1. True Positives (136):
-Correctly predicted **Malignant** Cases.
+Correctly Predicted **Malignant** Cases.
 
 2. True Negatives (133):
-Correctly predicted **Benign** Cases.
+Correctly Predicted **Benign** Cases.
 
 3. False Positives (52):
-**Benign** Cases wrongly classified as **Malignant**.
+**Benign** Cases Wrongly Classified As **Malignant**.
 
 4. False Negatives (17):
-**Malignant** Cases wrongly classified as **Benign**.
+**Malignant** Cases Wrongly Classified As **Benign**.
 
-- So, based from this analysis, the model shows strong performance in detecting **Malignant** Skin Cancers, with `True Positive 136 Correct Malignant Predictions` & only `False Positive 17 Incorrect Malignant Predictions`.
+## Results 🤔
+- So, based on this **Analysis**, the **Model** shows **Strong Performance** in detecting **Malignant Skin Cancers**, with `True Positive 136 Correct Malignant Predictions` & **ONLY** `False Positive 17 Incorrect Malignant Predictions`.
 
-- While **Benign** Cases were sometimes wrongly classified as **Malignant** with `False Positive 52`.
+- While **Benign Cases** were sometimes **Wrongly Classified** as **Malignant** with `False Positive 52`.
 
 ## How to Use 🚀 
-- Open the `.ipynb` notebook file in the files.
+- Open the `.ipynb` **Notebook File** in the **Files**.
 
-> 📁 **Note**: This is for **educational purposes only** — no real credentials, access, or confidential data are used.
-
-## License 🔒 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
-
-🔗 [View Full License Terms](https://creativecommons.org/licenses/by-nc/4.0/)
+> 📁 **Note**: This is for **Educational Purposes Only** — no **Real Credentials**, **Access**, or **Confidential Data Are Used**.
 
 ## Coding Information 🛠
-Frontend:
+Fronte-End:
 - Jupyter Notebook.
 - Matplotlib & Seaborn Visualizations.
 - Image Display.
 
-Backend:
-- Python (`if-else`, `functions`, `loops`, etc).
+Back-End:
+- Python (`If-Else`, `fFunctions`, `Loops`, etc).
 - Data Handling & Preprocessing (`ImageDataGenerator`).
 
 - `TensorFlow`/`Keras`:
-  - `TensorFlow`: Open source library developed by Google. Used for build, train, and deploy Neural Network (CNNs).
-  - `Keras`: Open-source library that provides Python interface for Neural Network.
+  - `TensorFlow`: **Open Source Library** developed by **Google**. Used for **Build**, **Train**, and **Deploy Neural Network (CNNs)**.
+  - `Keras`: **Open Source Library** that provides **Python Interface** for **Neural Network**.
 
 - Google Colab: Free online platform to write & run a code.
 
