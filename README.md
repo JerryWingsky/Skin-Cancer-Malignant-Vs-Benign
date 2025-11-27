@@ -69,10 +69,10 @@ Back-End:
 - Data Handling & Preprocessing (`ImageDataGenerator`).
 
 - `TensorFlow`/`Keras`:
-  - `TensorFlow`: **Open Source Library** developed by **Google**. Used for **Build**, **Train**, and **Deploy Neural Network (CNNs)**.
-  - `Keras`: **Open Source Library** that provides **Python Interface** for **Neural Network**.
+  - `TensorFlow`: Open Source Library developed by Google. Used for Build, Train, and Deploy Neural Network (CNNs).
+  - `Keras`: Open Source Library that provides a Python Interface for Neural Networks.
 
-- Google Colab: Free online platform to write & run a code.
+- Google Colab: Free Online Platform to Write & Run Code.
 
 ## Big thanks to my teammates: 🙌
 1. Jerry Wingsky ([@jrywsky](https://linktr.ee/JerryWingsky))
