@@ -6,7 +6,7 @@
 
 ## Overview ✨
 
-A **Group Project** for **Computer Vision** combined with **Natural Language Processing**, focusing on applying **ML** & **AI** to solve a **Data Problem** of your choice. It classifies **Skin Cancer Images** as either **Malignant** or **Benign**. It explores practical solutions to **Real-World Challenges** in:
+A **Group Project** for **Computer Vision** combined with **Natural Language Processing**, focusing on applying **ML** & **AI** to solve a **Data Problem** of your choice. It classifies **Skin Cancer Images** as either **Malignant** or **Benign**. It explores **Practical Solutions** to **Real-World Challenges** in:
 - **Image Recognition**.
 - **Designs CNN Architecture**.
 - **Selects Relevant Evaluation Metrics**.
@@ -59,13 +59,13 @@ Correctly Predicted **Benign** Cases.
 > 📁 **Note**: This is for **Educational Purposes Only** — no **Real Credentials**, **Access**, or **Confidential Data Are Used**.
 
 ## Coding Information 🛠
-Fronte-End:
+Front-End:
 - Jupyter Notebook.
 - Matplotlib & Seaborn Visualizations.
 - Image Display.
 
 Back-End:
-- Python (`If-Else`, `fFunctions`, `Loops`, etc).
+- Python (`If-Else`, `Functions`, `Loops`, etc).
 - Data Handling & Preprocessing (`ImageDataGenerator`).
 
 - `TensorFlow`/`Keras`:
